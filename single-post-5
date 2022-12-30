@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Basttl - Single Post</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Inter:wght@400;500&family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS Files -->
+  <link href="assets/css/variables.css" rel="stylesheet">
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Basttl - v1.2.1
+  * Template URL: https://bootstrapmade.com/
+  * Author: BootstrapMade.com
+  * License: https:///bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <h1>Basttl</h1>
+      </a>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html">Blog</a></li>
+          <li><a href="index.html">Car Consultancy</a></li>
+          <li><a href="index.html">VIDEOS</a></li>
+          <li><a href="index.html">Owner review</a></li>
+          <li><a href="AboutUs.html">About Us</a></li>
+          <li><a href="index.html">News</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav><!-- .navbar -->
+
+      <div class="position-relative">
+        <a href="#" class="mx-2"><span class="bi-facebook"></span></a>
+        <a href="#" class="mx-2"><span class="bi-twitter"></span></a>
+        <a href="#" class="mx-2"><span class="bi-instagram"></span></a>
+        <a href="#" class="mx-2"><span class="bi-linkedin"></span></a>
+
+        <a href="#" class="mx-2 js-search-open"><span class="bi-search"></span></a>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+
+        <!-- ======= Search Form ======= -->
+        <div class="search-form-wrap js-search-form-wrap">
+          <form action="search-result.html" class="search-form">
+            <span class="icon bi-search"></span>
+            <input type="text" placeholder="Search" class="form-control">
+            <button class="btn js-search-close"><span class="bi-x"></span></button>
+          </form>
+        </div><!-- End Search Form -->
+
+      </div>
+
+    </div>
+
+  </header><!-- End Header -->
+
+  <main id="main">
+
+    <section class="single-post-content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-9 post-content" data-aos="fade-up">
+
+            <!-- ======= Single Post Content ======= -->
+            <div class="single-post">
+              <div class="post-meta"><span class="date">Business</span> <span class="mx-1">&bullet;</span> <span>Jul 5th '22</span></div>
+              <h1 class="mb-5">5 Essential Car Maintenance Tips: Is your car healthy enough for a Happy Journey?</h1>
+              <p><span class="firstcharacter">R</span>oad trips always fascinate many of us because during the entire road trip you feel every little movement around you. But the health of your car tends to a happy and safe journey.
+During the entire road trip, your car is likely to face a variety of weather and calamities. Engine can heat up in summers and affected by sunlight or it can be jammed in winters and so on. </p>
+
+              <figure class="my-4">
+                <img src="assets/img/post-landscape-1.jpg" alt="" class="img-fluid">
+                <figcaption>So here are five most essential car maintenance tips during journey and also help to beat the heat:</figcaption>
+              </figure>
+              <h2>Find Shade For Parking </h2>
+              <p>As we search the shade in summers, similarly your vehicle needs a shade too. But we never remember this and park our car anywhere due to hurry or hassle of finding appropriate parking. This will help to protect your car from excessive heat and sunlight. </p>
+              <h2>Use Window Shades </h2>
+              <p>To avoid direct sunlight, use shades on your windows. Sun rays are kept out of your car's interior by using window blinds. UV rays are reflected by the shades, which protect the plastic components inside the car. To avoid direct sunlight, use shades on your windows. Sun rays are kept out of your car's interior by using window blinds. UV rays are reflected by the shades, which protect the plastic components inside the car.</p>
+              <h2>Check Tyres Air’s Pressure</h2>
+              <p>Car tyres may have been damaged as a result of the weather. So, before embarking on any long road excursions this summer, monitor your tyre pressure. The recommended tyre pressure for most passenger cars is between 30 and 35 PSI (pounds per square inch).</p>
+              <h2>Clean and Wash Your Car</h2>
+              <p>Keeping your car clean from outside and inside not only makes you feel good, but it also saves you money in the long run. Hot temperatures can melt plastics, food or other trash left inside your car, causing interior damage that could be costly to fix. So car washing will enhance the health of your car. 
+Every car includes a cooling system that removes heat from the engine to keep it at normal operating temperatures. Coolant, hoses, a thermostat, a radiator, and a water pump make up the cooling system.
+</p>
+              <h2>Keep Your Engine Cool</h2>
+              <p>The temperature gauge, which measures the coolant levels in your automobile, will tell you whether the coolant in your engine is cold, normal, or overheated. It's possible that your vehicle is overheating if the temperature gauge reads high. Pull over and wait for your engine to cool down if this happens. Because this is a major issue, you should contact your local technician right away to have it fixed.</p>
+              <p>Wish you a Safest and Happy Journey!</p>
+            </div><!-- End Single Post Content -->
+
+           
+            <!-- ======= Comments Form ======= -->
+            <div class="row justify-content-center mt-5">
+
+              <div class="col-lg-12">
+                <h5 class="comment-title">Leave a Comment</h5>
+                <div class="row">
+                  <div class="col-lg-6 mb-3">
+                    <label for="comment-name">Name</label>
+                    <input type="text" class="form-control" id="comment-name" placeholder="Enter your name">
+                  </div>
+                  <div class="col-lg-6 mb-3">
+                    <label for="comment-email">Email</label>
+                    <input type="text" class="form-control" id="comment-email" placeholder="Enter your email">
+                  </div>
+                  <div class="col-12 mb-3">
+                    <label for="comment-message">Message</label>
+
+                    <textarea class="form-control" id="comment-message" placeholder="Enter your name" cols="30" rows="10"></textarea>
+                  </div>
+                  <div class="col-12">
+                    <input type="submit" class="btn btn-primary" value="Post comment">
+                  </div>
+                </div>
+              </div>
+            </div><!-- End Comments Form -->
+          </div>
+         <div class="col-md-3">    
+    </section>
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer">
+
+    <div class="footer-content">
+      <div class="container">
+
+        <div class="row g-5">
+          <div class="col-lg-4">
+            <h3 class="footer-heading">About Basttl</h3>
+            <p>We are a team of passionate car enthusiasts who are dedicated to bringing you the latest and greatest in the automotive world.</p>
+            <p><a href="about.html" class="footer-link-more">Learn More</a></p>
+          </div>
+          <div class="col-6 col-lg-2">
+            <h3 class="footer-heading">Navigation</h3>
+            <ul class="footer-links list-unstyled">
+              <li><a href="index.html"><i class="bi bi-chevron-right"></i> Home</a></li>
+              <li><a href="index.html"><i class="bi bi-chevron-right"></i> Blog</a></li>
+              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Car Consultancy</a></li>
+              <li><a href="single-post.html"><i class="bi bi-chevron-right"></i> VIDEOS</a></li>
+              <li><a href="about.html"><i class="bi bi-chevron-right"></i> Owner Review</a></li>
+              <li><a href="contact.html"><i class="bi bi-chevron-right"></i> News</a></li>
+              <li><a href="contact.html"><i class="bi bi-chevron-right"></i> About Us</a></li>
+              <li><a href="contact.html"><i class="bi bi-chevron-right"></i> Contact</a></li>
+            </ul>
+          </div>
+          <div class="col-6 col-lg-2">
+            <h3 class="footer-heading">Categories</h3>
+            <ul class="footer-links list-unstyled">
+              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Blogs</a></li>
+              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Cars</a></li>
+              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Sports Bikes</a></li>
+              <li><a href="category.html"><i class="bi bi-chevron-right"></i> TATA</a></li>
+              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Jaguar</a></li>
+              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Sujuki</a></li>
+            </ul>
+          </div>
+
+    
+
+    <div class="footer-legal">
+      <div class="container">
+
+        <div class="row justify-content-between">
+          <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+            <div class="copyright">
+              © Copyright <strong><span>Basttl</span></strong>. All Rights Reserved
+            </div>
+
+            <div class="credits">
+              <!-- All the links in the footer should remain intact. -->
+              <!-- You can delete the links only if you purchased the pro version. -->
+              <!-- Licensing information: https://bootstrapmade.com/license/ -->
+              <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/herobiz-bootstrap-business-template/ -->
+              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+
+          </div>
+
+          <div class="col-md-6">
+            <div class="social-links mb-3 mb-lg-0 text-center text-md-end">
+              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
+              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+  </footer>
+
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
